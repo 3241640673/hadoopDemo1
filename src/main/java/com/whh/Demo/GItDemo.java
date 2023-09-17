@@ -9,5 +9,6 @@ public class GItDemo {
         System.out.println("Hello GIt5");
         System.out.println("Hello Dev");
         System.out.println("Hrllo push");
+        System.out.println("Hrllo pull");
     }
 }
